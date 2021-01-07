@@ -1,0 +1,25 @@
+{
+    "name": "employeetracker",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://adrianpinon.github.io/HW12_EmployeeTracker/"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://adrianpinon.github.io/HW12_EmployeeTracker/"
+    },
+    "homepage": "https://adrianpinon.github.io/HW12_EmployeeTracker/",
+    "dependencies": {
+      "console.table": "^0.10.0",
+      "inquirer": "^7.3.3",
+      "mysql": "^2.18.1"
+    },
+    "devDependencies": {}
+  }
